@@ -21,13 +21,10 @@ public class Exercicio09 {
 			c[i] = sc.nextInt();
 			System.out.printf("\nDigite o %d do array de D: ", i+1);
 			d[i] = sc.nextInt();
-			
 		}
 		System.out.println(Arrays.toString(a));
 		System.out.println(Arrays.toString(b));
 		System.out.println(Arrays.toString(c));
 		System.out.println(Arrays.toString(d));
-
 	}
-
 }
