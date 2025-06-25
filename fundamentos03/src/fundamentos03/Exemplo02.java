@@ -9,7 +9,7 @@ public class Exemplo02 {
 		boolean b2 = s1.equals(s2);
 		boolean b3 = s1.equalsIgnoreCase(s2);
 		boolean b4 = s1.equalsIgnoreCase("azul");
-		System.out.println(b2);
+		System.out.println(b4);
 	}
 
 }
