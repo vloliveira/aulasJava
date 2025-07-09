@@ -11,9 +11,5 @@ public class UsarProduto {
 		System.out.println(p1.getNome());
 		System.out.println(p1.getPreco());
 		System.out.println(p1.getQuantidadeEstoque());
-		
-		
-		
 	}
-
 }
